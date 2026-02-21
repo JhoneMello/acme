@@ -2,7 +2,7 @@
   "nome": "acme",
   "version": "0.1.0",
   "private": true,
-  "engines": "{
+  "engines": {
     "node": ">=20.0.0",
     "npm": ">=10.0.0"
   },
