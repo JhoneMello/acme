@@ -20,6 +20,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@types/node": "25.3.2",
     "@types/react": "^18.3.28",
     "@types/react-dom": "file:^18@types/node@^24",
     "eslint": "^8.57.1",
